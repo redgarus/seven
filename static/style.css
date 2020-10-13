@@ -1,0 +1,176 @@
+a{
+	color: #C70039;
+	text-decoration: none;
+}
+
+.header {
+	background-color: #1C2833;
+	padding: 50px 630px;
+}
+
+.ts_back {
+    padding: 5px 5px 10px;
+	left: 45%;
+	position: relative;
+}
+
+.ts {
+	left: 45%;
+	color: #C70039;
+	position: absolute;
+	top: 1%;
+}
+
+.text-top {
+    padding: 30px 25px 5px;
+}
+
+.text-bottom {
+	padding: 10px 25px 20px;
+	height: 24px;
+	width: 500px;
+}
+
+.school-img{
+	width: 483px;
+	height: 281px;
+	position: absolute;
+	left: 50%;
+	top: 20%;
+}
+
+.url_title {
+	position: absolute;
+	left: 7%;
+}
+
+.url_students {
+	position: absolute;
+	right: 10%;
+}
+
+.dnevnik {
+	position: absolute;
+	left: 23%;
+}
+
+.teachers {
+	position: absolute;
+	right: 30%;
+}
+
+.content {
+	position: absolute;
+	top: 50%;
+	left: 30%;
+}
+
+.footer {
+	position: absolute;
+	background-color: #1C2833;
+	top: 90%;
+	height: 200px;
+	width: 1263px;
+}
+
+.content-titl {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+}
+
+.pre-footer {
+	background-color: #1C2833;
+	position: absolute;
+	top: 75%;
+	width: 1263px;
+	height: 5px;
+}
+
+.end-font {
+	position: absolute;
+	top: 80%;
+	left: 30%;
+}
+
+.footer-urls-div-1-1 {
+	position: absolute;
+	color: white;
+	text-decoration: underline;
+	left: 1.5%;
+	top: 10%;
+
+}
+.footer-urls-div-1-2 {
+	color: white;
+	text-decoration: underline;
+	position: absolute;
+	left: 1.5%;
+	top: 23%;
+	
+}
+.footer-urls-div-1-3 {
+	color: white;
+	text-decoration: underline;
+	position: absolute;
+	left: 1.5%;
+	top: 35%;
+	
+}
+.footer-urls-div-1-4 {
+	text-decoration: underline;
+	color: white;
+	position: absolute;
+	left: 1.5%;
+	top: 49%;
+	
+}
+.footer-urls-div-1-5 {
+	color: white;
+	text-decoration: underline;
+	position: absolute;
+	left: 1.5%;
+	top: 61%;
+
+}
+
+.footer-urls-div-2-1 {
+	position: absolute;
+	color: white;
+	text-decoration: underline;
+	left: 23%;
+	top: 10%;
+
+}
+.footer-urls-div-2-2 {
+	color: white;
+	text-decoration: underline;
+	position: absolute;
+	left: 23%;
+	top: 23%;
+	
+}
+.footer-urls-div-2-3 {
+	color: white;
+	text-decoration: underline;
+	position: absolute;
+	left: 23%;
+	top: 35%;
+	
+}
+.footer-urls-div-2-4 {
+	text-decoration: underline;
+	color: white;
+	position: absolute;
+	left: 23%;
+	top: 49%;
+	
+}
+.footer-urls-div-2-5 {
+	color: white;
+	text-decoration: underline;
+	position: absolute;
+	left: 23%;
+	top: 61%;
+
+}
