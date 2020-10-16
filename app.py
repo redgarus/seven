@@ -22,6 +22,8 @@ def redirected():
 			else:
 				return redirect("/home")
 
+	process_request("https://sevenclassm.herokuapp.com/")
+
 
 
 @app.route('/home')
