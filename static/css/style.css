@@ -8,18 +8,12 @@ a{
 	padding: 50px 630px;
 }
 
-.ts_back {
-    padding: 5px 5px 10px;
-	left: 45%;
-	position: relative;
-}
-
 .ts {
 	left: 45%;
 	color: #C70039;
 	font-size: 1.7em;
 	position: absolute;
-	top: 1.8%;
+	top: 0.9%;
 }
 
 .text-top {
