@@ -75,9 +75,12 @@ a{
 }
 
 .content {
+	font-family: 'Open Sans', sans-serif;
+	font-style: italic;
+	font-size: 3em;
 	position: absolute;
-	top: 50%;
-	left: 30%;
+	top: 30%;
+	left: 20%;
 }
 
 .footer {
