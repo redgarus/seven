@@ -6,7 +6,7 @@
 	<link rel="stylesheet" href="{{ url_for( 'static', filename='css/reset.css', v=3)}}">
 	<link rel="stylesheet" href="{{ url_for( 'static', filename='css/style.css', v=3)}}">
 	<script src="https://unpkg.com/current-device/umd/current-device.min.js">
-		if (device.mobile()) {
+		if (device.mobile() == True) {
 			window.location.href = 'https://sevenclassm.herokuapp.com/mobile';
 		}
 	</script>
