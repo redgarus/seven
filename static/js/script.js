@@ -1,1 +1,0 @@
-console.log("device.mobile() === %s", device.mobile());
