@@ -15,7 +15,6 @@ a{
 .all_days {
 	font-family: "Open Sans", sans-serif;
 	font-style: italic;
-	font-weight: bold;
 }
 
 .day-1 {
@@ -57,6 +56,7 @@ a{
 .day_of_week {
 	font-size: 2.5em;
 	padding: 0px 0px 10px 0px;
+	font-weight: bold;
 }
 
 .content-day {
@@ -64,6 +64,98 @@ a{
 	padding: 3px 3px 0px 3px;
 }
 /* dnevnik end */
+
+/* students begin  */
+
+.students_title {
+	font-family: 'Open Sans', sans-serif;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 2.3em;
+	position: absolute;
+	bottom: 97%;
+	left: 40%;
+}
+
+.students_1 {
+	font-family: 'Open Sans', sans-serif;
+	font-style: italic;
+	/*font-weight: bold;*/
+	font-size: 1.7em;
+	position: absolute;
+	left: 30%;
+	top: 5.5%;
+}
+
+.lineer_s {
+	background-color: #1C2833;
+	width: 100%;
+	height: 5px;
+	position: absolute;
+	top: 4.1%;
+}
+
+/* students end */
+
+/* teachers begin */
+
+.column_1 {
+	font-family: 'Open Sans', sans-serif;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 2em;
+	left: 3%;
+	position: absolute;
+}
+
+.column_t {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bold;
+	font-style: italic;
+	font-size: 1.5em;
+	position: absolute;
+	top: 5%;
+	left: 3%;
+}
+
+.lineer {
+	background-color: #1C2833;
+	width: 5px;
+	height: 100%;
+	position: absolute;
+	left: 55%;
+	bottom: 10%;
+}
+
+.column_2 {
+	font-family: 'Open Sans', sans-serif;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 2em;
+	left: 65%;
+	position: absolute;
+}
+
+.column_p {
+	font-family: 'Open Sans', sans-serif;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 1.5em;
+	position: absolute;
+	left: 65%;
+	top: 5%;
+}
+
+.lineer_2 {
+	background-color: #1C2833;
+	width: 100%;
+	height: 5px;
+	position: absolute;
+	top: 4.1%;
+
+}
+
+/* teachers end*/
 
 .ts {
 	left: 45%;
@@ -157,7 +249,7 @@ a{
 	background-color: #1C2833;
 	position: absolute;
 	top: 75%;
-	width: 1263px;
+	width: 100%;
 	height: 5px;
 }
 
