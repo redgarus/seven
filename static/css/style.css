@@ -53,15 +53,34 @@ a{
 	bottom: 35%;
 }
 
+@media screen and (min-height: 1024px) {
 .day_of_week {
 	font-size: 2.5em;
 	padding: 0px 0px 10px 0px;
 	font-weight: bold;
 }
+}
 
+@media screen and (min-height: 1024px) {
 .content-day {
 	font-size: 2em;
 	padding: 3px 3px 0px 3px;
+}
+}
+
+@media screen and (max-height: 1024px) {
+.day_of_week {
+	font-size: 2em;
+	padding: 0px 0px 10px 0px;
+	font-weight: bold;
+}
+}
+
+@media screen and (max-height: 1024px) {
+.content-day {
+	font-size: 1.5em;
+	padding: 3px 3px 0px 3px;
+}
 }
 /* dnevnik end */
 
