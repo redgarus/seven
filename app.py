@@ -31,5 +31,9 @@ def dnevnik():
 	return render_template("dnevnik.html")
 
 
+@app.route('/dnevnik/edu')
+def edu():
+	return render_template("education.html")
+
 if __name__ == "__main__":
 	app.run(debug=True)
